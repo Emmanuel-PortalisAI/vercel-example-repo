@@ -1,0 +1,22 @@
+{
+  "name": "hello-world-api",
+  "version": "1.0.0",
+  "description": "A simple API for Git practice with one Hello World route",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "api",
+    "express",
+    "nodejs",
+    "hello-world"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+  
+}
