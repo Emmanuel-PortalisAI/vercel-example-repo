@@ -22,13 +22,13 @@ app.get("/", (req, res) => {
       <li>
         <b>WEB_GET URL param example:</b><br>
         <code>
-          [[WEB_GET|https://vercel-example-repo.vercel.app/dummyGetURLParams?name=&lt;yourNameHere&gt;&age=&lt;yourAgeHere&gt;]]
+          [[WEB_GET|https://webhook-tester-portalisai.vercel.app/dummyGetURLParams?name=&lt;yourNameHere&gt;&age=&lt;yourAgeHere&gt;]]
         </code>
       </li>
       <li>
         <b>WEB_GET JSON body param example:</b><br>
         <code>
-          [[WEB_GET|https://vercel-example-repo.vercel.app/dummyGetJSONBodyParams|name=&lt;yourNameHere&gt;|age=&lt;yourAgeHere&gt;]]
+          [[WEB_GET|https://webhook-tester-portalisai.vercel.app/dummyGetJSONBodyParams|name=&lt;yourNameHere&gt;|age=&lt;yourAgeHere&gt;]]
         </code>
       </li>
     </ul>
@@ -39,13 +39,13 @@ app.get("/", (req, res) => {
       <li>
         <b>WEB_POST URL param example:</b><br>
         <code>
-          [[WEB_POST|https://vercel-example-repo.vercel.app/dummyPostURLParams?name=&lt;yourNameHere&gt;&age=&lt;yourAgeHere&gt;]]
+          [[WEB_POST|https://webhook-tester-portalisai.vercel.app/dummyPostURLParams?name=&lt;yourNameHere&gt;&age=&lt;yourAgeHere&gt;]]
         </code>
       </li>
       <li>
         <b>WEB_POST JSON body param example:</b><br>
         <code>
-          [[WEB_POST|https://vercel-example-repo.vercel.app/dummyPostJSONBodyParams|name=&lt;yourNameHere&gt;|age=&lt;yourAgeHere&gt;]]
+          [[WEB_POST|https://webhook-tester-portalisai.vercel.app/dummyPostJSONBodyParams|name=&lt;yourNameHere&gt;|age=&lt;yourAgeHere&gt;]]
         </code>
       </li>
     </ul>
